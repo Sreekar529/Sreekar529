@@ -1,16 +1,99 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile
 
-<!--
-**Sreekar529/Sreekar529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Sreekar Archakam**, a final-year undergraduate student with a strong foundation in **Python development**, and a growing interest in the fields of **Data Science**, **Machine Learning**, and **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 **Primary Skills:** Python (Core & Libraries), Data Analytics, Data Visualization  
+- 🌱 **Currently Learning:** Machine Learning, Advanced Data Science Techniques, AI Solutions  
+- 📊 Experienced with **Power BI**, **Excel**, and **R** for data analysis and visual storytelling  
+- 💾 Familiar with **Java**, **JDBC**, **HTML**, and **CSS**  
+- 🔍 Deep interest in **mathematics**, particularly in solving **statistical and analytical problems**  
+- 🎯 Focused on building practical, real-world projects that combine technology and analytical thinking
+
+---
+
+## 🛠️ Technical Proficiencies
+
+**Languages:**  
+Python | Java (Basics) | HTML | CSS | R  
+
+**Data Tools & Libraries:**  
+Pandas | NumPy | Matplotlib | Seaborn | Power BI | Excel  
+
+**Database Technologies:**  
+JDBC (Basics)
+
+**Others:**  
+Jupyter Notebook | Git | VS Code
+
+---
+
+## 🚀 Projects Overview
+
+| Project Title                                 | Description                                                                         | Status              |
+|---------------------------------------------|-------------------------------------------------------------------------------------|--------------------|
+| **Face Attendance Management System**        | Automated system to record attendance using facial recognition via Python            | Completed ✅       |
+| **Crop & Fertilizer Recommendation System**  | Data-driven model recommending optimal crops and fertilizers based on soil and weather data | Completed ✅ |
+| **Multi-Class Animal Recognition**           | Image classification system to identify multiple animal species                     | Completed ✅       |
+| **Certificate Generator (Casual Use)**       | Lightweight Python tool for generating certificates without verification (upcoming feature) | Planned 🔜  |
+| **Renewable Energy Awareness Chatbot**       | AI-powered chatbot designed to promote renewable energy awareness                   | In Development 🔄  |
+
+---
+
+## 🎓 Academic and Professional Background
+
+- 🎓 **Final-Year Undergraduate Student**                -----  **Graduating in 2026**
+- 💼 **Intern at 1M1B (One Million for One Billion)**    -----  **(Started at May)**
+- 💼 **Intern at Edunet Foundation**                     -----  **(Started in June)**
+
+---
+
+## 📚 Current Learning Path
+
+- Advanced Data Science Techniques  
+- Machine Learning Concepts & Applications  
+- AI-powered Automation & Chatbot Development  
+
+---
+
+## 🎯 Professional Interests
+
+- **Artificial Intelligence**  
+- **Machine Learning & Predictive Modeling**  
+- **Data Visualization & Storytelling**  
+- **Statistical Analysis & Mathematical Problem Solving**  
+- **Tech-based Automation Solutions**
+
+---
+
+## 🌱 Personal Interests
+
+- Exploring emerging technologies in **AI and Automation**  
+- Reading **Manga, Manhua, and Manhwa** as a form of creative relaxation  
+- Listening to **instrumental music** for focus and stress relief  
+- Passionate about **teaching and simplifying complex topics**, following the belief:
+
+> "If you can't explain it simply, you don't understand it well enough." — Albert Einstein
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/sreekar529/)   
+- 📧 Email: **sreekar529@gmail.com**   
+
+---
+
+## ⚡ Future Goals
+
+- Contribute to impactful AI-driven projects  
+- Develop real-world machine learning solutions  
+- Enhance skills in full-stack development and automation  
+- Engage in knowledge sharing through teaching and mentoring
+
+---
+
+_Thank you for visiting my GitHub profile. I am open to collaborations, learning opportunities, and meaningful discussions._  
