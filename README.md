@@ -82,8 +82,17 @@ Jupyter Notebook | Git | VS Code
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/sreekar529/)   
-- 📧 Email: **sreekar529@gmail.com**   
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sreekar529/)  
+- [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:sreekar529@gmail.com)
+- 
+---
+
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sreekar529&color=blue)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreekar529&layout=compact&theme=radical)
 
 ---
 
@@ -95,5 +104,6 @@ Jupyter Notebook | Git | VS Code
 - Engage in knowledge sharing through teaching and mentoring
 
 ---
+
 
 _Thank you for visiting my GitHub profile. I am open to collaborations, learning opportunities, and meaningful discussions._  
