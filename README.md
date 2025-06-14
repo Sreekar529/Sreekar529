@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-I am **Sreekar Archakam**, a final-year undergraduate student with a strong foundation in **Python development**, and a growing interest in the fields of **Data Science**, **Machine Learning**, and **Artificial Intelligence**.
+I am **Sreekar **, a final-year undergraduate student with a strong foundation in **Python development**, and a growing interest in the fields of **Data Science**, **Machine Learning**, and **Artificial Intelligence**.
 
 ---
 
