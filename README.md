@@ -38,16 +38,16 @@ Jupyter Notebook | Git | VS Code
 | **Face Attendance Management System**        | Automated system to record attendance using facial recognition via Python            | Completed ✅       |
 | **Crop & Fertilizer Recommendation System**  | Data-driven model recommending optimal crops and fertilizers based on soil and weather data | Completed ✅ |
 | **Multi-Class Animal Recognition**           | Image classification system to identify multiple animal species                     | Completed ✅       |
-| **Certificate Generator (Casual Use)**       | Lightweight Python tool for generating certificates without verification (upcoming feature) | Planned 🔜  |
-| **Renewable Energy Awareness Chatbot**       | AI-powered chatbot designed to promote renewable energy awareness                   | In Development 🔄  |
+| **Certificate Generator (Casual Use)**       | Lightweight Python tool for generating certificates without verification (upcoming feature) | Completed ✅  |
+| **Renewable Energy Awareness Chatbot**       | AI-powered chatbot designed to promote renewable energy awareness                   | Completed ✅   |
 
 ---
 
 ## 🎓 Academic and Professional Background
 
 - 🎓 **Final-Year Undergraduate Student**                -----  **Graduating in 2026**
-- 💼 **Intern at 1M1B (One Million for One Billion)**    -----  **(Started at May)**
-- 💼 **Intern at Edunet Foundation**                     -----  **(Started in June)**
+- 💼 **Intern at 1M1B (One Million for One Billion)**    -----  **(May'25 - June'25)**
+- 💼 **Intern at Edunet Foundation**                     -----  **(June 16th '25 - July 16th '25)**
 
 ---
 
@@ -76,7 +76,7 @@ Jupyter Notebook | Git | VS Code
 - Listening to **instrumental music** for focus and stress relief  
 - Passionate about **teaching and simplifying complex topics**, following the belief:
 
-> "If you can't explain it simply, you don't understand it well enough." — Albert Einstein
+
 
 ---
 
