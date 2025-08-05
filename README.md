@@ -33,13 +33,13 @@ Jupyter Notebook | Git | VS Code
 
 ## 🚀 Projects Overview
 
-| Project Title                                 | Description                                                                         | Status              |
-|---------------------------------------------|-------------------------------------------------------------------------------------|--------------------|
-| **Face Attendance Management System**        | Automated system to record attendance using facial recognition via Python            | Completed ✅       |
-| **Crop & Fertilizer Recommendation System**  | Data-driven model recommending optimal crops and fertilizers based on soil and weather data | Completed ✅ |
-| **Multi-Class Animal Recognition**           | Image classification system to identify multiple animal species                     | Completed ✅       |
-| **Certificate Generator (Casual Use)**       | Lightweight Python tool for generating certificates without verification (upcoming feature) | Completed ✅  |
-| **Renewable Energy Awareness Chatbot**       | AI-powered chatbot designed to promote renewable energy awareness                   | Completed ✅   |
+| Project Title                                | Description                                                                                  | Status              |
+|----------------------------------------------|----------------------------------------------------------------------------------------------|---------------------|
+| **Face Attendance Management System**        | Automated system to record attendance using facial recognition via Python                    | Completed ✅       |
+| **Crop & Fertilizer Recommendation System**  | Data-driven model recommending optimal crops and fertilizers based on soil and weather data  | Completed ✅       |
+| **Multi-Class Animal Recognition**           | Image classification system to identify multiple animal species                              | Completed ✅       |
+| **Certificate Generator (Casual Use)**       | Lightweight Python tool for generating certificates without verification (upcoming feature)  | Completed ✅       |
+| **Renewable Energy Awareness Chatbot**       | AI-powered chatbot designed to promote renewable energy awareness                            | Completed ✅       |
 
 ---
 
